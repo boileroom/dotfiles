@@ -1,0 +1,6 @@
+[[keyboard.bindings]]
+chars = "\u007F"
+key = "Back"
+
+[shell]
+program = "/bin/fish"

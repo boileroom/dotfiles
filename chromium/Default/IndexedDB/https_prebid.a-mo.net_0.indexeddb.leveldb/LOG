@@ -1,7 +1,0 @@
-2023/11/04-15:38:40.461 3ee Reusing MANIFEST /home/axz/.config/chromium/Default/IndexedDB/https_prebid.a-mo.net_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/04-15:38:40.461 3ee Recovering log #3
-2023/11/04-15:38:40.461 3ee Reusing old log /home/axz/.config/chromium/Default/IndexedDB/https_prebid.a-mo.net_0.indexeddb.leveldb/000003.log 
-2023/11/04-15:58:40.442 3ee Level-0 table #5: started
-2023/11/04-15:58:40.444 3ee Level-0 table #5: 1450 bytes OK
-2023/11/04-15:58:40.447 3ee Delete type=0 #3
-2023/11/04-15:58:40.447 3ee Manual compaction at level-0 from (begin) .. (end); will stop at (end)

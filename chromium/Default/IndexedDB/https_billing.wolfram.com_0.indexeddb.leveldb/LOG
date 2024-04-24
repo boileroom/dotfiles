@@ -1,6 +1,0 @@
-2023/10/20-16:32:17.078 36c Creating DB /home/axz/.config/chromium/Default/IndexedDB/https_billing.wolfram.com_0.indexeddb.leveldb since it was missing.
-2023/10/20-16:32:17.082 36c Reusing MANIFEST /home/axz/.config/chromium/Default/IndexedDB/https_billing.wolfram.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/20-16:34:02.487 36d Level-0 table #5: started
-2023/10/20-16:34:02.489 36d Level-0 table #5: 828 bytes OK
-2023/10/20-16:34:02.492 36d Delete type=0 #3
-2023/10/20-16:34:02.492 36d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

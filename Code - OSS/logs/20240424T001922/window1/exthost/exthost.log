@@ -1,0 +1,36 @@
+2024-04-24 00:19:24.019 [info] Extension host with pid 4207 started
+2024-04-24 00:19:24.051 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-24 00:19:24.070 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-24 00:19:24.093 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-24 00:19:24.114 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-24 00:19:24.142 [info] Eager extensions activated
+2024-04-24 00:19:24.153 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-24 00:19:24.155 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-24 00:19:31.739 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-24 00:19:31.742 [info] Extension host with pid 4207 exiting with code 0
+2024-04-24 00:19:32.262 [info] Extension host with pid 4333 started
+2024-04-24 00:19:32.262 [info] Skipping acquiring lock for /home/axz/.config/Code - OSS/User/workspaceStorage/ef66f0688ec62f60a73cafcedb9c3018.
+2024-04-24 00:19:32.276 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-24 00:19:32.279 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-24 00:19:32.295 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-24 00:19:32.326 [info] Eager extensions activated
+2024-04-24 00:19:32.344 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-24 00:19:32.345 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-24 00:19:42.330 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-24 00:19:42.332 [info] Extension host with pid 4333 exiting with code 0
+2024-04-24 00:19:42.908 [info] Extension host with pid 4429 started
+2024-04-24 00:19:42.908 [info] Skipping acquiring lock for /home/axz/.config/Code - OSS/User/workspaceStorage/9fc3b9d1936176e5f749da2de28ee313.
+2024-04-24 00:19:42.944 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-24 00:19:42.974 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-24 00:19:42.979 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-24 00:19:42.997 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-24 00:19:43.024 [info] Eager extensions activated
+2024-04-24 00:19:43.067 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-24 00:19:43.068 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-24 00:19:43.203 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5362
+2024-04-24 00:19:43.530 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5362
+2024-04-24 00:19:47.537 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5361
+2024-04-24 00:19:52.613 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5361
+2024-04-24 00:19:57.710 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5361
+2024-04-24 00:20:03.946 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-24 00:20:03.972 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

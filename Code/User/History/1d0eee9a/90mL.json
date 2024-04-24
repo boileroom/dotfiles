@@ -1,0 +1,6 @@
+{
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}

@@ -1,0 +1,6 @@
+2023/11/18-18:27:47.948 359 Reusing MANIFEST /home/axz/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/18-18:27:47.948 359 Recovering log #18
+2023/11/18-18:27:47.954 359 Reusing old log /home/axz/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000018.log 
+2023/11/18-21:00:30.628 35a Level-0 table #24: started
+2023/11/18-21:00:30.635 35a Level-0 table #24: 4051425 bytes OK
+2023/11/18-21:00:30.637 35a Delete type=0 #18

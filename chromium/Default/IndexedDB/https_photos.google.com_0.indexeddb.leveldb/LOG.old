@@ -1,0 +1,7 @@
+2023/11/20-17:54:52.949 380 Reusing MANIFEST /home/axz/.config/chromium/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/20-17:54:52.949 380 Recovering log #3
+2023/11/20-17:54:52.949 380 Reusing old log /home/axz/.config/chromium/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000003.log 
+2023/11/20-17:55:25.346 380 Level-0 table #5: started
+2023/11/20-17:55:25.349 380 Level-0 table #5: 4346 bytes OK
+2023/11/20-17:55:25.351 380 Delete type=0 #3
+2023/11/20-17:55:25.352 380 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

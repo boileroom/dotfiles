@@ -1,0 +1,21 @@
+2023/11/20-17:54:52.623 3c3 Reusing MANIFEST /home/axz/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/20-17:54:52.623 3c3 Recovering log #147
+2023/11/20-17:54:52.630 3c3 Reusing old log /home/axz/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000147.log 
+2023/11/20-17:54:55.101 380 Level-0 table #153: started
+2023/11/20-17:54:55.114 380 Level-0 table #153: 2637380 bytes OK
+2023/11/20-17:54:55.118 380 Delete type=0 #147
+2023/11/20-17:54:57.245 380 Compacting 1@1 + 1@2 files
+2023/11/20-17:54:57.254 380 Generated table #154@1: 164 keys, 289760 bytes
+2023/11/20-17:54:57.254 380 Compacted 1@1 + 1@2 files => 289760 bytes
+2023/11/20-17:54:57.256 380 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/20-17:54:57.257 380 Delete type=2 #153
+2023/11/20-17:54:57.257 380 Delete type=2 #150
+2023/11/20-17:55:43.225 381 Level-0 table #156: started
+2023/11/20-17:55:43.239 381 Level-0 table #156: 2664921 bytes OK
+2023/11/20-17:55:43.242 381 Delete type=0 #152
+2023/11/20-17:55:55.535 381 Compacting 1@1 + 1@2 files
+2023/11/20-17:55:55.544 381 Generated table #157@1: 176 keys, 338639 bytes
+2023/11/20-17:55:55.544 381 Compacted 1@1 + 1@2 files => 338639 bytes
+2023/11/20-17:55:55.546 381 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/20-17:55:55.546 381 Delete type=2 #154
+2023/11/20-17:55:55.546 381 Delete type=2 #156

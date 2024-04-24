@@ -1,0 +1,8 @@
+2023-10-02 10:33:18.188 [info] [Info  - 10:33:18 AM] (18468) Pylance language server 2023.9.30 (pyright 7e72aa15) starting
+2023-10-02 10:33:18.188 [info] [Info  - 10:33:18 AM] (18468) Server root directory: /home/axz/.vscode/extensions/ms-python.vscode-pylance-2023.9.30/dist
+2023-10-02 10:33:18.188 [info] [Info  - 10:33:18 AM] (18468) Starting service instance "MAHAPATRA"
+2023-10-02 10:33:18.211 [info] [Info  - 10:33:18 AM] (18468) Setting pythonPath for service "MAHAPATRA": "/bin/python"
+2023-10-02 10:33:18.211 [info] [Info  - 10:33:18 AM] (18468) Setting pythonPath for service "MAHAPATRA": "/bin/python"
+2023-10-02 10:33:18.211 [info] [Warn  - 10:33:18 AM] (18468) stubPath /home/axz/RESEARCH/MAHAPATRA/typings is not a valid directory.
+2023-10-02 10:33:18.228 [info] [Info  - 10:33:18 AM] (18468) Assuming Python version 3.11
+2023-10-02 10:33:18.388 [info] [Info  - 10:33:18 AM] (18468) Found 4 source files

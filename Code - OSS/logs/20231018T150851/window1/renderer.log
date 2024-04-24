@@ -1,0 +1,2 @@
+2023-10-18 15:08:52.031 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/axz/.config/hypr/hyprland.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-10-18 15:08:55.171 [info] [perf] Render performance baseline is 19ms

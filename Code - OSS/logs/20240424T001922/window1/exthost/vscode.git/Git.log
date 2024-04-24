@@ -1,0 +1,67 @@
+2024-04-24 00:19:24.152 [info] Log level: Info
+2024-04-24 00:19:24.152 [info] Validating found git in: "git"
+2024-04-24 00:19:24.152 [info] Using git "2.42.0" from "git"
+2024-04-24 00:19:24.152 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-24 00:19:32.350 [info] Log level: Info
+2024-04-24 00:19:32.350 [info] Validating found git in: "git"
+2024-04-24 00:19:32.350 [info] Using git "2.42.0" from "git"
+2024-04-24 00:19:32.350 [info] > git rev-parse --show-toplevel [7ms]
+2024-04-24 00:19:43.032 [info] Log level: Info
+2024-04-24 00:19:43.032 [info] Validating found git in: "git"
+2024-04-24 00:19:43.032 [info] Using git "2.42.0" from "git"
+2024-04-24 00:19:43.032 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.039 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2024-04-24 00:19:43.045 [info] Open repository: /home/axz/.config
+2024-04-24 00:19:43.056 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.056 [info] > git config --get commit.template [4ms]
+2024-04-24 00:19:43.065 [info] No remotes found in the git config file.
+2024-04-24 00:19:43.066 [info] > git rev-parse --show-toplevel [6ms]
+2024-04-24 00:19:43.074 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-04-24 00:19:43.084 [info] > git rev-parse --show-toplevel [10ms]
+2024-04-24 00:19:43.092 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.096 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.103 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-24 00:19:43.110 [info] > git status -z -uall [32ms]
+2024-04-24 00:19:43.110 [info] > git rev-parse --show-toplevel [4ms]
+2024-04-24 00:19:43.445 [info] > git rev-parse --show-toplevel [330ms]
+2024-04-24 00:19:43.459 [info] > git config --get commit.template [13ms]
+2024-04-24 00:19:43.459 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.464 [info] No remotes found in the git config file.
+2024-04-24 00:19:43.468 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-04-24 00:19:43.472 [info] > git rev-parse --show-toplevel [4ms]
+2024-04-24 00:19:43.477 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-24 00:19:43.482 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-24 00:19:43.487 [info] > git status -z -uall [15ms]
+2024-04-24 00:19:43.487 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.540 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-24 00:19:43.546 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.552 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.557 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.561 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.565 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-24 00:19:43.571 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.575 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-24 00:19:43.580 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.590 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-24 00:19:43.590 [info] > git rev-parse --show-toplevel [5ms]
+2024-04-24 00:19:43.594 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.598 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.893 [info] > git rev-parse --show-toplevel [292ms]
+2024-04-24 00:19:43.901 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.907 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-24 00:19:43.917 [info] > git show --textconv :hypr/hyprland.conf [6ms]
+2024-04-24 00:19:43.917 [info] > git ls-files --stage -- /home/axz/.config/hypr/hyprland.conf [1ms]
+2024-04-24 00:19:46.495 [info] > git check-ignore -v -z --stdin [2ms]
+2024-04-24 00:19:47.479 [info] No remotes found in the git config file.
+2024-04-24 00:19:47.480 [info] > git config --get commit.template [8ms]
+2024-04-24 00:19:47.481 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-04-24 00:19:47.499 [info] > git status -z -uall [12ms]
+2024-04-24 00:19:48.382 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-24 00:19:52.549 [info] > git config --get commit.template [1ms]
+2024-04-24 00:19:52.549 [info] No remotes found in the git config file.
+2024-04-24 00:19:52.555 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-04-24 00:19:52.570 [info] > git status -z -uall [10ms]
+2024-04-24 00:19:57.634 [info] > git config --get commit.template [1ms]
+2024-04-24 00:19:57.644 [info] No remotes found in the git config file.
+2024-04-24 00:19:57.648 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-04-24 00:19:57.664 [info] > git status -z -uall [11ms]

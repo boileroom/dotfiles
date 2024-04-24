@@ -1,0 +1,2 @@
+2023-10-17 20:38:01.855 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/axz/.config/waybar/config.jsonc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-10-17 20:38:04.969 [info] [perf] Render performance baseline is 18ms

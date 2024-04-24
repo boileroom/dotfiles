@@ -1,0 +1,15 @@
+2023/11/19-13:58:26.063 362 Reusing MANIFEST /home/axz/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/19-13:58:26.063 362 Recovering log #11
+2023/11/19-13:58:26.063 362 Reusing old log /home/axz/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000011.log 
+2023/11/19-16:59:31.940 363 Level-0 table #16: started
+2023/11/19-16:59:31.943 363 Level-0 table #16: 209 bytes OK
+2023/11/19-16:59:31.945 363 Delete type=0 #11
+2023/11/19-16:59:31.946 363 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/19-16:59:31.946 363 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 1222 : 1
+2023/11/19-16:59:31.946 363 Compacting 1@1 + 1@2 files
+2023/11/19-16:59:31.950 363 Generated table #17@1: 271 keys, 68460 bytes
+2023/11/19-16:59:31.950 363 Compacted 1@1 + 1@2 files => 68460 bytes
+2023/11/19-16:59:31.953 363 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/19-16:59:31.953 363 Delete type=2 #16
+2023/11/19-16:59:31.953 363 Delete type=2 #13
+2023/11/19-16:59:31.954 363 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 1222 : 1 .. (end); will stop at (end)

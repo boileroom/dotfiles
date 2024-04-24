@@ -1,0 +1,9 @@
+2023/11/19-13:58:22.017 363 Reusing MANIFEST /home/axz/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/19-13:58:22.018 363 Recovering log #23
+2023/11/19-13:58:22.018 363 Reusing old log /home/axz/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000023.log 
+2023/11/19-15:28:04.587 362 Compacting 1@1 + 1@2 files
+2023/11/19-15:28:04.592 362 Generated table #26@1: 101 keys, 159131 bytes
+2023/11/19-15:28:04.592 362 Compacted 1@1 + 1@2 files => 159131 bytes
+2023/11/19-15:28:04.594 362 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/19-15:28:04.595 362 Delete type=2 #21
+2023/11/19-15:28:04.595 362 Delete type=2 #24
